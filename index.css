@@ -1,0 +1,212 @@
+/* Complete */
+
+/* 
+Beige - #e7c789	(231,199,137)
+Harvest Gold - #eab16b (234,177,107)
+Gold - #c18a45 (193,138,69)
+Green - #508141	(80,129,65)
+Dark Green - #314b29 (49,75,41)
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: #fff;
+    background-image: url(/references/Main\ Background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin-left: -1px;
+    margin-right: -1px;
+    margin-bottom: -1px;
+}
+
+/* Header/Nav Bar */
+
+.header {
+    width: 100%;
+    height: 69px;
+    display: block;
+    position: fixed;
+    background-color: #314b29;
+    border-bottom: 3px solid #fff;
+    padding-top: 10px;
+    top: 0px;
+}
+
+.logo {
+    height: 50px;
+    float: left;
+    padding-left: 10px;
+}
+
+.nav-links {
+    float: right;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.nav-links a {
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+}
+
+.nav-links a li {
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+    text-decoration: underline;
+    color: white;
+}
+
+/* Header/Nav Bar */
+
+/* Mission Section */
+
+.main-background-logo {
+    float: right;
+    display: block;
+    margin-top: 5%;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 40%;
+    border-top: 4px solid #fff;
+    border-right: 1px solid #fff;
+    border-bottom: 12px solid #fff;
+    border-left: 1px solid #fff;
+    border-radius: 40% 2%;
+    background-color: #314b29;
+    z-index: -1;
+}
+
+.main-background-logo img {
+    height: 100px;
+    padding: 10px;
+}
+
+.mission-background {
+    background-image: url(/references/Mission\ Background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+    max-width: 1200px;
+    margin: 110px 30px auto 30px;
+    display: flex;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    z-index: 1;
+}
+
+
+.text-over {
+    margin: auto;
+    background-color: #314b29;
+    color: #fff;
+    border: 1px solid #fff;
+    width: 100%;
+}
+
+/* Mission Section */
+
+/* Tea Section */
+
+.tea-header {
+    background-image: url(/references/Featured\ Tea\ Background.jpg);
+    background-position: center;
+    background-size: cover;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    max-width: 900px;
+    margin: 30px auto 10px auto;
+    display: flex;
+}
+
+.tea-header-text {
+    margin: auto;
+}
+
+.tea-container {
+    display: inline-flex;
+    max-width: 1000px;
+    height: auto;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid #fff;
+    background-color: #314b29;
+    border-radius: 10px;
+}
+
+.tea-content img {
+    height: 300px;
+    width: auto;
+    padding: 0px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    margin: 20px 20px auto 20px;
+}
+
+/* Tea Section */
+
+/* Location Section */
+
+.location-background {
+    background-image: url(/references/Locations.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 1200px;
+    margin: 30px 30px auto auto;
+    border: 3px solid #fff;
+    border-radius: 10px;
+}
+
+.location-container {
+    padding-top: 30px;
+}
+
+.location-text {
+    background-color: #314b29;
+    color: #fff;
+    opacity: 1;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    margin: 15px 20px 0px 20px;
+    display: inline-block;
+    line-height: 1.5;
+}
+
+/* Location Section */
+
+/* Footer Section */
+
+.footer-contact {
+    height: 200px;
+}
+
+.copyright-me {
+    width: 100%;
+    height: 69px;
+    display: block;
+}
+
+.copyright {
+    float: left;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+.me {
+    float: right;
+    list-style-type: none;
+    line-height: 1.5;
+    margin-right: 20px;
+}
+
+/* Footer Section */
