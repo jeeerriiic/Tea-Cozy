@@ -12,7 +12,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 22px;
     color: #fff;
-    background-image: url(/references/Main\ Background.jpg);
+    background-image: url(/referencesTeaCozy/Main\ Background.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -20,6 +20,7 @@ body {
     margin-left: -1px;
     margin-right: -1px;
     margin-bottom: -1px;
+    overflow: auto;
 }
 
 /* Header/Nav Bar */
@@ -88,7 +89,7 @@ body {
 }
 
 .mission-background {
-    background-image: url(/references/Mission\ Background.jpg);
+    background-image: url(/referencesTeaCozy/Mission\ Background.jpg);
     background-repeat: no-repeat;
     background-position: center;
     height: 700px;
@@ -114,7 +115,7 @@ body {
 /* Tea Section */
 
 .tea-header {
-    background-image: url(/references/Featured\ Tea\ Background.jpg);
+    background-image: url(/referencesTeaCozy/Featured\ Tea\ Background.jpg);
     background-position: center;
     background-size: cover;
     border: 3px solid #fff;
@@ -154,7 +155,7 @@ body {
 /* Location Section */
 
 .location-background {
-    background-image: url(/references/Locations.jpg);
+    background-image: url(/referencesTeaCozy/Locations.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
