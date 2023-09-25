@@ -20,7 +20,8 @@ body {
     margin-left: -1px;
     margin-right: -1px;
     margin-bottom: -1px;
-    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
 
 /* Header/Nav Bar */
