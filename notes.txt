@@ -3,6 +3,7 @@ researching webpage designs
 homePage
     deleted html/css code
     restarting from scratch
+    added javascript file
 
 /////      USE PHILZ & PEET'S WEBPAGE DESIGN FOR REFS/INSPO        /////
 
