@@ -1,5 +1,8 @@
 3/25/2024
 researching webpage designs
+homePage
+    deleted html/css code
+    restarting from scratch
 
 /////      USE PHILZ & PEET'S WEBPAGE DESIGN FOR REFS/INSPO        /////
 
